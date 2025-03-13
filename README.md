@@ -27,8 +27,8 @@ Follow the instructions on the official Redis website to install and run Redis l
 ### 2. Clone the Repository
 
 ```sh
- git clone <repository-url>
- cd <repository-folder>
+ git clone git@github.com:mhlukhov/mhlukhov-redis-tech-ass.git
+ cd mhlukhov-redis-tech-ass
 ```
 
 ### 3. Build the Application
